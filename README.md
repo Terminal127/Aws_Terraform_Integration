@@ -17,3 +17,7 @@ Follow these steps to create the infrastructure using Terraform:
 
    ```bash
    git clone https://github.com/yourusername/terraform-aws-infrastructure.git
+   terraform init
+   terraform plan
+   terraform apply
+   terraform destroy
